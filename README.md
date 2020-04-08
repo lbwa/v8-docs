@@ -1,12 +1,17 @@
-<h1 align="center">v8 docs</h1>
+<h1 align="center">V8 Reference</h1>
 
 <p align="center"><a href="https://lbwa.github.io/v8-docs">Online</a></p>
-
-## Intro
 
 This project is an API reference for Google's open-source [v8](https://github.com/v8/v8) `JavaScript` engine.
 
 ## Install
+
+1. Fetch the latest version `v8` source code:
+
+   ```bash
+   $ git submodule init
+   $ git submodule foreach git pull
+   ```
 
 1. Download [doxygen](https://github.com/doxygen/doxygen) binaries into `doxygen` directory.
 
