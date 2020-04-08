@@ -1,2 +1,5 @@
-# doxygen binary directories
-doxygen*
+# doxygen binaries directory
+doxygen/*
+
+# output
+docs
