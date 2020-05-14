@@ -40,7 +40,7 @@ PROJECT_NAME           = "V8"
 
 # Sync with v8 version
 
-PROJECT_NUMBER         = "v8.4.47"
+PROJECT_NUMBER         = "latest master commit"
 
 # Using the PROJECT_BRIEF tag one can provide an optional one line description
 # for a project that appears at the top of each page and should give viewer a
